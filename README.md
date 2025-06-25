@@ -36,7 +36,7 @@ A powerful Windows application that automatically monitors popular hackathon pla
 
 #### **Option 1: One-Click Installer (Recommended)**
 
-1. **Download**: [`HackathonMonitor_v1.1.1_Installer.exe`](dist/HackathonMonitor_v1.1.1_Installer.exe) (11.2 MB)
+1. **Download**: [`HackathonMonitor_v1.0.0_Installer.exe`](dist/HackathonMonitor_v1.0.0_Installer.exe) (11.2 MB)
 2. **Run**: Double-click the downloaded file
 3. **Enable Auto-Startup**: ✅ Check "Start automatically when Windows boots" (Recommended)
 4. **Install**: Follow the installer prompts
@@ -46,7 +46,7 @@ A powerful Windows application that automatically monitors popular hackathon pla
 
 1. **Clone or download** this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shiva-129/hackathon-monitor.git
    cd hackathon-monitor-main
    ```
 
